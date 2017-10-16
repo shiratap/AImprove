@@ -1,3 +1,5 @@
 # pproj
 
+Welcome to my personal project! What I hope to accomplish in this project is to be able to successfully work react.js using Python Flask. That is my current task, but what is already in the respository is a functional game. A game that can keep track of how many boxes you click on, can update the scoreboard with your score on it (Which I would like to have the scoreboard connected to a database eventually). You will need to run node.js files and the command '~python -m SimpleHTTPServer' in gitbash to start up the application. Not complete, but pretty happy with what I've accomplished so far as a junior developer.
+
 Disregard the python file 'gamez'. Eventually what I will do is hook up python flask with my javascript code so that this mouse game will work. What does work (if you have the 'node_modules' files in this folder (see 'https://nodejs.org/en/' on how to install those files)), is if you go to this folder and run the command 'npm start' in gitbash. A local server will be setup and will run the javascript program automatically. The game is not perfect. But I'm detirmined to finish it.
