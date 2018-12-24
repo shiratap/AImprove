@@ -1,0 +1,22 @@
+body {
+    background-image: url("https://wallpapercave.com/wp/F85GHXH.jpg");
+    background-size: cover;
+    font-size: 24px;
+    color: white;
+    width: 100%;
+}
+a{
+    color: black;
+}
+a:link {
+    color: black;
+}
+a:visited{
+    color: black;
+}
+a:hover{
+    color: black;
+}
+a:active{
+    color: black;
+}
